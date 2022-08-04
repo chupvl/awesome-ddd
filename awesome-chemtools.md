@@ -9,3 +9,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3524573/
 https://pubs.acs.org/doi/10.1021/acs.jcim.7b00343
 https://www.nature.com/articles/s41589-022-01104-5
 https://www.nature.com/subjects/chemical-tools
+https://www.nature.com/articles/s41592-022-01454-x
+https://www.nature.com/articles/s41467-022-31271-x
+https://www.icr.ac.uk/news-archive/researchers-call-for-improved-use-of-chemical-tools-to-enhance-biomedical-research
