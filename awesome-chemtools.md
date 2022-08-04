@@ -1,0 +1,11 @@
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4706458/
+https://www.chemistryworld.com/news/expert-wiki-to-expose-low-quality-chemical-probes/8763.article
+https://www.nature.com/articles/nature.2015.18027
+https://cicbdd.web.unc.edu/wp-content/uploads/sites/9892/2015/06/nchembio.296.pdf
+https://pubs.acs.org/doi/10.1021/acschembio.1c00036
+https://en.wikipedia.org/wiki/Chemical_probe
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5511331/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3524573/
+https://pubs.acs.org/doi/10.1021/acs.jcim.7b00343
+https://www.nature.com/articles/s41589-022-01104-5
+https://www.nature.com/subjects/chemical-tools
