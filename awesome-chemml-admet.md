@@ -2,6 +2,7 @@
 
 ## Solubility
 - [Solubility prediction using Graph Convolutional Neural Networks](https://github.com/rnepal2/Solubility-Prediction-with-Graph-Neural-Networks)
+- Evaluation of Deep Learning Architectures for Aqueous Solubility Prediction: [paper](https://pubs.acs.org/doi/full/10.1021/acsomega.2c00642) + [code](https://github.com/pnnl/solubility-prediction-paper)
 
 ## pKa
 - [Predicting the pKa of Small Molecules, 2011](https://www.mrupp.info/Data/2011rkt_cchts.pdf)
