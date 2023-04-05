@@ -1,5 +1,8 @@
 # ADMET related 
 
+## Solubility
+- [Solubility prediction using Graph Convolutional Neural Networks](https://github.com/rnepal2/Solubility-Prediction-with-Graph-Neural-Networks)
+
 ## pKa
 - [Predicting the pKa of Small Molecules, 2011](https://www.mrupp.info/Data/2011rkt_cchts.pdf)
 - [Improving Small Molecule pKa Prediction Using Transfer Learning With Graph Neural Networks](https://www.frontiersin.org/articles/10.3389/fchem.2022.866585/full)
